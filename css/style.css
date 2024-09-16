@@ -475,6 +475,17 @@ body {
     padding: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
+@media only screen and (max-width: 600px) {
+    .lightbox-content {
+        max-width: 90%;
+        max-height: 90%;
+    }
+    .jirafa {
+        width: 60%;
+    }
+}
+ 
+
 
 .image-container {
     flex: 2;
