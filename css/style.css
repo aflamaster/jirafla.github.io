@@ -485,6 +485,10 @@ body {
     }
     .imagen-top {
         margin-top: -4rem;
+        z-index: 0;
+    }
+    .intro-top {
+        z-index: 2;
     }
 }
  
