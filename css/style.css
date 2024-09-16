@@ -483,6 +483,9 @@ body {
     .jirafa {
         width: 60%;
     }
+    .imagen-top {
+        margin-top: -4rem;
+    }
 }
  
 
